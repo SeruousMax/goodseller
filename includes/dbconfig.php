@@ -2,7 +2,7 @@
 $host = "localhost";
 $userhost = "root";
 $passhost = "";
-$datebase = "avtochip43.ru";
+$datebase = "goodseller.ru";
 
 $db = mysqli_connect($host, $userhost, $passhost, $datebase);
 mysqli_query($db, "set character_set_client='utf8mb4'");
