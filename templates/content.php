@@ -1,3 +1,3 @@
 <div class = "wrapper">
-    Текст
+    Изменения
 </div>
